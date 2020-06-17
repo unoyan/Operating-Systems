@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/P2_Thread.dir/bbar.c.o CMakeFiles/P2_Thread.dir/plane.c.o CMakeFiles/P2_Thread.dir/pthread_sleep.c.o  -o P2_Thread 

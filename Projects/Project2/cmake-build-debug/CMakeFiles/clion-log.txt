@@ -1,0 +1,21 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/P2-Thread
+CMake Error: Could not find cmake module file: CMakeDetermineCPPCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_CPP_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_CPP_COMPILER
+CMake Error: Could not find cmake module file: /tmp/P2-Thread/cmake-build-debug/CMakeFiles/3.16.3/CMakeCPPCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CPP_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_CPP_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeCPPInformation.cmake
+CMake Error: CMAKE_CPP_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "/tmp/P2-Thread/cmake-build-debug/CMakeFiles/CMakeOutput.log".
