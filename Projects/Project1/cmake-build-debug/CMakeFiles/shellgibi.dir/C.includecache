@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/utkunoyan/Desktop/Spring20/Comp304/Project1/chinese-whispers.c
+chinese-whispers.h
+/Users/utkunoyan/Desktop/Spring20/Comp304/Project1/chinese-whispers.h
+
+/Users/utkunoyan/Desktop/Spring20/Comp304/Project1/chinese-whispers.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+unistd.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/wait.h
+-
+mqueue.h
+-
+
